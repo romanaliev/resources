@@ -6,9 +6,11 @@
 
 
 https://github.com/IanLunn/Hover
+
 https://github.com/IanLunn/Sequence/
 
 https://github.com/daneden/animate.css
+
 https://daneden.github.io/animate.css/
  
 
